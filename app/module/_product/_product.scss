@@ -4,11 +4,11 @@
 
   &__items {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); 
     grid-gap: 45px 30px;
   }
 
-  &__link {
+  &__link { 
     text-transform: uppercase;
     color: $title;
     display: inline-block;
@@ -39,7 +39,7 @@
       min-width: 200px;
       margin-bottom: 0;
 
-      img {
+      img {  
         height: 250px;
       }
     }

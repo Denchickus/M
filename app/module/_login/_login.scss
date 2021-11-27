@@ -37,7 +37,7 @@
 
   &__btn {
     display: block;
-    background-color: $title;
+    background-color: $title; 
     text-transform: uppercase;
     color: #fff;
     @extend %roboto-400;

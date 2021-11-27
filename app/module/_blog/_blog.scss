@@ -8,7 +8,7 @@
     justify-content: space-between;
     position: relative;
 
-    &::after {
+    &::after { 
       content: '';
       position: absolute;
       right: -20px;
@@ -160,7 +160,7 @@
 
     &__data {
       margin-top: 10px;
-    }
+    } 
   }
 
   .blog {
